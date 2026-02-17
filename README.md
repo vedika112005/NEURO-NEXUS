@@ -87,3 +87,6 @@ Once deployed, the app will automatically build the FAISS index (if it doesn't e
 
 ## 8. Summary
 **NEURO-NEXUS** is more than a monitoring tool—it is a vision of the future. It provides the **Context** that humans need and the **Explainability** that security demands. By mapping the **Neural Trace** of every interaction, we ensure that no threat remains invisible. 🛰️🧠🛡️
+
+
+Deployment Link : https://neuro-nexus-ep7diwe8qcgug3p2rry3ka.streamlit.app/
